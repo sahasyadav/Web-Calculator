@@ -34,4 +34,3 @@ Key features:
 
 This calculator project demonstrates the integration of front-end web technologies to create a practical, interactive application. It's suitable for users who need quick access to basic calculations in a web browser.
 
-Would you like me to elaborate on any specific aspect of the project?
